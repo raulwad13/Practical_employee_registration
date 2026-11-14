@@ -1,7 +1,15 @@
-<h1>Practice Exercise</h1>
-<hr>
-<p>This is a short exercise to practice code between times. It would be necessary to add a DB to access it more competently and improve the appearance.</p>
+# Registro de empleados 🧑‍💼
 
-<div align="center">
-<image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKhWVvDv3qXMabYfM_8xC6axsPSQXItrKHR9HMCvA0cQ&s" width="400" />
-</div>
+Ejercicio sencillo de **HTML, CSS y JavaScript** para practicar formularios, objetos, arrays y validación de datos.
+
+## Funciones
+- Añadir empleados con DNI, nombre, apellido, año de nacimiento y cargo.
+- Comprobar los campos obligatorios, el formato del DNI y el año.
+- Evitar empleados con el mismo DNI.
+- Mostrar en pantalla los empleados añadidos.
+
+## Ejecutar
+Abre `Registro/index.html` en el navegador. No necesita instalar dependencias ni arrancar un servidor.
+
+## Limitaciones
+Los empleados se guardan **solo en memoria**: al recargar la página desaparecen. No existe una base de datos ni un sistema real de gestión de personal. Es una práctica educativa, no una aplicación preparada para almacenar datos personales reales.
